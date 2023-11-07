@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Crystall ball**
 
-- 🌱 I’m currently learning **Web development|DSA**
+- 🌱 I’m currently learning **NLP|DSA**
 
 - 📫 How to reach me **Khushibanasthali@gmail.com**
 
