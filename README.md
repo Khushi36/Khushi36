@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NLP|DSA**
 
-- 📫 How to reach me **Khushibanasthali@gmail.com**
+- 📫 How to reach me **Khushi28181@gmail.com**
 
 - ⚡ Fun fact **I once wrote a program that generated random puns, but it got so punny that it became a language of its own! 🐍🤖 #CodingHumor**
 
