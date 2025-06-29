@@ -1,26 +1,88 @@
-<h1 align="center">Hi 👋, I'm Khushi Singh</h1>
-<h3 align="center">Aspiring Software Developer | Coding Enthusiast | Problem-Solving Junkie</h3>
+<h1 align="center">✨ Hey there, I'm Khushi Singh! ✨</h1>
+<h3 align="center">AI Explorer 🚀 | M.Tech Student 👩‍🎓 | Developer 💻 | Debugging Ninja 🐛</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi36&label=Profile%20views&color=0e75b6&style=flat" alt="khushi36" /> </p>
-
-- 🔭 I’m currently working on **Crystall ball**
-
-- 🌱 I’m currently learning **NLP|DSA**
-
-- 📫 How to reach me **work.singhkhushi@gmail.com**
-
-- ⚡ Fun fact **I once wrote a program that generated random puns, but it got so punny that it became a language of its own! 🐍🤖 #CodingHumor**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@khushi36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@khushi36" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khushisingh910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushisingh910" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/036_khushi singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="036_khushi singh" height="30" width="40" /></a>
-<a href="https://codesandbox.com/khushi36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="khushi36" height="30" width="40" /></a>
-<a href="https://kaggle.com/036_khushi singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="036_khushi singh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/khushi_singh910/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/khushi_singh910/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/khushibanasthali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="khushibanasthali" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khushi36&label=Profile%20views&color=brightgreen&style=flat-square" alt="khushi36" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+### 🌌 Who Am I?
+
+> *“Some code to build.  
+> Some bugs to kill.  
+> Some models to train.  
+> Some dreams to fulfill.”*
+
+Hi! I’m **Khushi**, currently pursuing my **M.Tech in Computer Science at Banasthali Vidyapeeth (2024–2026)**.  
+I'm passionate about building meaningful AI-powered systems that solve real-world problems.  
+I’m always exploring, experimenting, and evolving — with a bug fix or two along the way 😉
+
+---
+
+### 🧠 What Drives Me
+
+- 🔮 AI for Space Weather Forecasting & Real-Time Systems  
+- 📚 NLP, WSD, WordNet, and language modeling  
+- 📊 Dashboarding & Visualizations (I love Streamlit!)  
+- 🧩 Building intelligent automation that works in the wild
+
+---
+
+### 📚 Currently Learning
+
+- 🧠 Advanced NLP & Transformers  
+- 📈 Data Structures & Algorithms (DSA)  
+- ☕ How to drink chai without spilling on my keyboard (still hard)
+
+---
+
+### 🚀 Projects That Define Me
+
+#### 🔮 **Crystal Ball – TEC Forecasting Dashboard**  
+`LSTM + Streamlit + Space Weather`  
+Forecasts Total Electron Content (TEC) using AI — blending scientific data with a real-time UI.
+
+#### 📘 **Word Sense Disambiguation (WSD) using Modified Lesk**  
+`WordNet + POS tagging + NLP`  
+Improved semantic understanding by resolving ambiguity in English & Hindi sentences.
+
+#### ⚙️ **AI-Driven Financial Real-Time Decision System**  
+`RTOS + Python + Smart Finance`  
+Automated real-time decision-making for financial anomalies using scheduling algorithms.
+
+---
+
+### 🛠️ Tech Stack
+
+```txt
+Languages:      Python, C++, HTML/CSS
+ML Frameworks:   scikit-learn
+NLP Tools:      WordNet, NLTK, spaCy
+Visualization:  Streamlit, Matplotlib, Seaborn
+Data:           Pandas, NumP
+Tools:          Git, VS Code, Google Colab, Jupyter
+
+---
+
+### 🌐 Connect & Reach Me
+
+| 🔗 Platform | Link |
+|------------|------|
+| 💼 LinkedIn | [khushisingh910](https://linkedin.com/in/khushisingh910) |
+| 🧠 LeetCode | [khushi_singh910](https://leetcode.com/khushi_singh910/) |
+| 💚 GeeksforGeeks | [khushibanasthali](https://auth.geeksforgeeks.org/user/khushibanasthali) |
+| 🧪 Kaggle | [036_khushi singh](https://kaggle.com/036_khushi%20singh) |
+| 💻 GitHub | [khushi36](https://github.com/khushi36) |
+| 📫 Email | [work.singhkhushi@gmail.com](mailto:work.singhkhushi@gmail.com) |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushi36&show_icons=true&theme=radical&hide=stars&count_private=true" alt="GitHub Stats" />
+</p>
+
+---
+
