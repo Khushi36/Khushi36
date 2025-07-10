@@ -14,7 +14,7 @@
 > Some models to train.  
 > Some dreams to fulfill.”*
 
-Hi! I’m **Khushi**, currently pursuing my **M.Tech in Computer Science at Banasthali Vidyapeeth (2024–2026)**.  
+Hi! I’m **Khushi**, currently pursuing my **M.Tech in Computer Science at Banasthali Vidyapeeth**.  
 I'm passionate about building meaningful AI-powered systems that solve real-world problems.  
 I’m always exploring, experimenting, and evolving — with a bug fix or two along the way 😉
 
