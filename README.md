@@ -2,7 +2,7 @@
 
 ### Software Developer | Python · FastAPI · RAG & LLM Applications
 
-![Profile views](https://komarev.com/ghpvc/?username=khushi36&label=Profile%20views&color=brightgreen&style=flat-square)
+
 
 ---
 
@@ -84,8 +84,3 @@ An educational web app that uses Google Gemini to simulate and visualise DNA tra
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushi36&show_icons=true&theme=radical&hide=stars&count_private=true" alt="GitHub Stats" />
-</p>
