@@ -1,79 +1,85 @@
-<h1 align="center">✨ Hey there, I'm Khushi Singh! ✨</h1>
-<h3 align="center">AI Explorer 🚀 | M.Tech Student 👩‍🎓 | Developer 💻 | Debugging Ninja 🐛</h3>
+# Hi, I'm Khushi Singh 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khushi36&label=Profile%20views&color=brightgreen&style=flat-square" alt="khushi36" />
-</p>
+### Software Developer | Python · FastAPI · RAG & LLM Applications
 
----
-
-### 🌌 Who Am I?
-
-> *“Some code to build.  
-> Some bugs to kill.  
-> Some models to train.  
-> Some dreams to fulfill.”*
-
-Hi! I’m **Khushi**, currently pursuing my **M.Tech in Computer Science at Banasthali Vidyapeeth**.  
-I'm passionate about building meaningful AI-powered systems that solve real-world problems.  
-I’m always exploring, experimenting, and evolving — with a bug fix or two along the way 😉
+![Profile views](https://komarev.com/ghpvc/?username=khushi36&label=Profile%20views&color=brightgreen&style=flat-square)
 
 ---
 
-### 🧠 What Drives Me
+## 🧑‍💻 About Me
 
-- 🔮 AI for Space Weather Forecasting & Real-Time Systems  
-- 📚 NLP, WSD, WordNet, and language modeling  
-- 📊 Dashboarding & Visualizations (I love Streamlit!)  
-- 🧩 Building intelligent automation that works in the wild
+I'm a Computer Science graduate (B.Tech 2024, PSIT Kanpur · M.Tech 2026, Banasthali Vidyapith) who enjoys building backend systems and AI-powered applications that solve real problems.
 
----
+During my research internship at the **National Informatics Centre (NIC), MeitY, Government of India**, I designed and deployed **Property Guardian AI**, a property fraud detection platform built with RAG, Neo4j graph analytics and LLM reasoning.
 
-### 📚 Currently Learning
-
-- 🧠 Advanced NLP & Transformers  
-- 📈 Data Structures & Algorithms (DSA)  
-- ☕ How to drink chai without spilling on my keyboard (still hard)
+**Currently focused on:** backend development, RAG / Graph RAG systems, and strengthening my DSA fundamentals.
 
 ---
 
-### 🚀 Projects That Define Me
+## 🚀 Featured Projects
 
-#### 🔮 **Crystal Ball – TEC Forecasting Dashboard**  
-`LSTM + Streamlit + Space Weather`  
-Forecasts Total Electron Content (TEC) using AI — blending scientific data with a real-time UI.
+### 🛡️ [Property Guardian AI](https://github.com/Khushi36/Property-Guardian-Ai)
+A multi-database property fraud detection and ownership analysis platform.
+- RAG query engine combining ChromaDB (semantic search), PostgreSQL (structured lookup) and Neo4j (graph traversal)
+- Fraud detection using SQL `LAG()` window functions to find broken ownership chains and double-selling
+- 4-stage PDF ingestion pipeline (PyPDF → pdfplumber → Tesseract OCR → LLM fallback)
+- JWT auth with CAPTCHA and email OTP, Redis rate limiting, audited read-only SQL console
+- Dockerised with 4 services via Docker Compose
 
-#### 📘 **Word Sense Disambiguation (WSD) using Modified Lesk**  
-`WordNet + POS tagging + NLP`  
-Improved semantic understanding by resolving ambiguity in English & Hindi sentences.
+`FastAPI` `Streamlit` `PostgreSQL` `Neo4j` `ChromaDB` `Redis` `Docker` `OpenRouter`
 
-#### ⚙️ **AI-Driven Financial Real-Time Decision System**  
-`RTOS + Python + Smart Finance`  
-Automated real-time decision-making for financial anomalies using scheduling algorithms.
+### 🔮 [Crystal Ball](https://github.com/Khushi36/Crystal_Ball)
+An interactive AutoML web app: upload a dataset, run EDA, train and compare classification or regression models, and export the best one as a `.pkl` file.
+
+`Python` `scikit-learn` `Streamlit` `pandas`
+
+### 👥 [Employee Churn Prediction](https://github.com/Khushi36/Employee_churn-Prediction)
+A churn prediction module for HR workforce analytics, built as part of the Crystal Ball project.
+
+`Python` `scikit-learn`
+
+### 🌌 [TEC Forecast Dashboard](https://github.com/Khushi36/tec-forecast-dashboard)
+A real-time Total Electron Content (space weather) forecasting dashboard using LSTM, with synthetic and real data modes.
+
+`LSTM` `Streamlit` `Python`
+
+### 🧬 [BioSimulate-AI](https://github.com/Khushi36/BioSimulate-AI)
+An educational web app that uses Google Gemini to simulate and visualise DNA transcription and translation.
+
+`TypeScript` `Gemini API`
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-```txt
-Languages:      Python, C++, HTML/CSS
-ML Frameworks:   scikit-learn
-NLP Tools:      WordNet, NLTK, spaCy
-Visualization:  Streamlit, Matplotlib, Seaborn
-Data:           Pandas, NumP
-Tools:          Git, VS Code, Google Colab, Jupyter
+| Area | Tools |
+|---|---|
+| **Languages** | Python, SQL |
+| **Backend** | FastAPI, REST APIs, SQLAlchemy, JWT Auth |
+| **Databases** | PostgreSQL, Neo4j, Redis, ChromaDB |
+| **DevOps & Tools** | Docker, Git, GitHub, VS Code, Jupyter, Google Colab |
+| **ML & Data** | scikit-learn, XGBoost, Pandas, NumPy, Seaborn, Plotly |
+| **GenAI & NLP** | RAG, Graph RAG, LLM APIs (Gemini, OpenRouter), NLTK, spaCy |
+| **Frontend / Dashboards** | Streamlit |
 
 ---
 
-### 🌐 Connect & Reach Me
+## 📈 Currently Learning
 
-| 🔗 Platform | Link |
-|------------|------|
+- Data Structures & Algorithms (practising on LeetCode)
+- Advanced NLP and Transformers
+- Writing cleaner, well-tested backend code
+
+---
+
+## 🌐 Connect With Me
+
+| Platform | Link |
+|---|---|
 | 💼 LinkedIn | [khushisingh910](https://linkedin.com/in/khushisingh910) |
 | 🧠 LeetCode | [khushi_singh910](https://leetcode.com/khushi_singh910/) |
 | 💚 GeeksforGeeks | [khushibanasthali](https://auth.geeksforgeeks.org/user/khushibanasthali) |
 | 🧪 Kaggle | [036_khushi singh](https://kaggle.com/036_khushi%20singh) |
-| 💻 GitHub | [khushi36](https://github.com/khushi36) |
 | 📫 Email | [work.singhkhushi@gmail.com](mailto:work.singhkhushi@gmail.com) |
 
 ---
@@ -83,6 +89,3 @@ Tools:          Git, VS Code, Google Colab, Jupyter
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khushi36&show_icons=true&theme=radical&hide=stars&count_private=true" alt="GitHub Stats" />
 </p>
-
----
-
